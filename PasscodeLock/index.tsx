@@ -12,7 +12,7 @@ const settings = definePluginSettings({
     pin: {
         type: OptionType.STRING,
         description: "The 6-character PIN required when Discord opens",
-        default: "111111",
+        default: "000000",
     },
     lockOnStart: {
         type: OptionType.BOOLEAN,
