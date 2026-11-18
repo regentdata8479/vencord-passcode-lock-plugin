@@ -1,5 +1,5 @@
 # PasscodeLock — Vencord User Plugin
-.<img width="1207" height="892" alt="Screenshot 2026-11-18 204740" src="https://github.com/user-attachments/assets/2876ef68-5b99-409c-a817-8220fd274d76" />
+<img width="1207" height="892" alt="Screenshot 2026-11-18 204740" src="https://github.com/user-attachments/assets/2876ef68-5b99-409c-a817-8220fd274d76" />
 
 **PasscodeLock** is a custom user plugin for [Vencord](https://vencord.dev) that adds a full-screen 6-character PIN lock to your Discord desktop client. It is designed to protect your account and messages whenever you open Discord, step away from your desk, or share your screen
 
