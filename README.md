@@ -9,16 +9,16 @@
 
 ## What Does This Plugin Do?
 - **Locks Discord on Startup:** As soon as Discord opens, a full-screen PIN prompt blocks access until the right 6 characters are entered.
-- 
+  
 - **Instant Lock Hotkey (`Ctrl + L`):** Press `Ctrl + L` (or `Cmd + L` on Mac) anywhere in Discord to lock your screen immediately.
-- 
+  
 - **Auto-Lock Timer:** Automatically locks Discord after a set number of minutes if you go AFK (no mouse movement, clicks, or typing).
-- 
+  
 - **Idiot-Proofing ts shit:**
   - Automatically converts everything you type to **UPPERCASE** (so you never have to worry about Caps Lock).
-  - 
+    
   - Includes a **Show/Hide Eye Icon** inside the box so you can see what you're typing.
-  - 
+    
   - Automatically unlocks the instant the 6th right character is typed—no need to press Enter.
 
 ---
@@ -51,6 +51,7 @@ If you have never built Vencord yourself, follow the official [Vencord Custom Pl
 
 1. **Download this repository:**
    - Scroll up to the top of this GitHub page, click the green **`<> Code`** button, and click **Download ZIP**.
+   
    - Right-click the downloaded `.zip` file and click **Extract All**.
 2. **Locate your `userplugins` folder:**
    - Open your `Vencord` source folder from Step 1.
